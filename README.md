@@ -15,6 +15,8 @@ A finales del 2020 inicié mi formación como Desarrolladora Front End en ADA It
 ![readme Git hub](https://user-images.githubusercontent.com/73021970/123563787-f8882f80-d78c-11eb-8e2c-4eded5d5c6f4.png)
 
 
+* Como hacer un Readme para mi perfil de git hub?: https://charly3pins.dev/es/blog/cree-un-readme-incre%C3%ADble-para-su-perfil-de-github/
+
 <!--
 **sandramuraca/sandramuraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
