@@ -2,9 +2,9 @@
 
 A finales del 2020 inicié mi formación como Desarrolladora Front End en ADA Itw.
 
-👨‍💻 Actualmente estoy aprendiendo:
+👨‍💻 Actualmente estoy ampliando mis conocimientos en
 
-`HTML` , `CSS` y `Javascript`
+`HTML` , `CSS` , `Javascript`, `Sass`, `Mui`, `React` y `SQL`
 
 📭 Podemos contactarnos por:
 
