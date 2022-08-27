@@ -2,11 +2,14 @@
 
 * Desde el año 2016 me desempeño como Analista Funcional.
 * En el año 2018 comencé a interesarme por las metodologías que se utilizan dentro de la Industria IT y realicé una certificación en Scrum y Metodologías Ágiles, también realice una certificación en Herramientas para la Calidad e implementación de procesos de mejora continua.
-* A finales del 2020 inicié mi formación como Desarrolladora Front End en ADA Itw.
+* A finales del 2020 inicié mi formación como Desarrolladora Front End en ADA Itw, vertificación que finalicé en Abril del 2022.
+* En Julio de 2022 inicié un curso de SQL para poder ampliar mis conocimientos.
 
-👨‍💻 Actualmente estoy ampliando mis conocimientos en
+👨‍💻 Continúo estudiando y sumando conocimientos de formaautodidacta.
 
-`HTML` , `CSS` , `Javascript`, `Sass`, `Mui`, `Bootstrap`, `React` y `SQL`.
+Tecnologías que manejo:
+
+`HTML` , `CSS` , `Javascript`, `Sass`, `Material UI`, `Bootstrap`, `React` y `SQL`.
 
 En mis repositorios podes ver parte de algunos de mis proyectos.
 
